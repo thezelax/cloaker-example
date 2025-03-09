@@ -26,7 +26,7 @@ Based on these checks, the script decides whether to serve the offer page (for l
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/php-cloaking-script.git
+   git clone https://github.com/thezelax/cloaker-example.git
    ```
 
 2. **Update the Script**:
